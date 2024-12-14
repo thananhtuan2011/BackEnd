@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|c:\\users\\thana\\onedrive\\m\u00E1y t\u00EDnh\\backend\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|c:\\users\\thana\\onedrive\\m\u00E1y t\u00EDnh\\backend\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|c:\\users\\thana\\onedrive\\m\u00E1y t\u00EDnh\\backend\\backend\\backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|c:\\users\\thana\\onedrive\\m\u00E1y t\u00EDnh\\backend\\backend\\backend\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|c:\\users\\thana\\onedrive\\m\u00E1y t\u00EDnh\\backend\\backend\\backend\\context\\backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\context\\backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|c:\\users\\thana\\onedrive\\m\u00E1y t\u00EDnh\\backend\\backend\\backend\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|c:\\users\\thana\\onedrive\\m\u00E1y t\u00EDnh\\backend\\backend\\backend\\entities\\base\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA670D7-F3A7-4D4C-A922-A71B266F027E}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\entities\\base\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeToolTip": "BackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T02:48:19.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeToolTip": "BackEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:48:01.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Entities\\Product.cs",
+              "RelativeToolTip": "BackEnd\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:47:01.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Entities\\User.cs",
+              "RelativeToolTip": "BackEnd\\Entities\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:28:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Entities\\Base\\IEntity.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Entities\\Base\\IEntity.cs",
+              "ToolTip": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Entities\\Base\\IEntity.cs",
+              "RelativeToolTip": "BackEnd\\Entities\\Base\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:28:15.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "BackEnd\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:28:00.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackEndContext.cs",
+              "DocumentMoniker": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Context\\BackEndContext.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Context\\BackEndContext.cs",
+              "ToolTip": "C:\\Users\\thana\\OneDrive\\M\u00E1y t\u00EDnh\\BackEnd\\BackEnd\\BackEnd\\Context\\BackEndContext.cs",
+              "RelativeToolTip": "BackEnd\\Context\\BackEndContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:23:21.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
